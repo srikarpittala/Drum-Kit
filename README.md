@@ -27,8 +27,12 @@ cd Drum-Kit
 - HTML 
 - CSS 
 - JavaScript
+## 🔹 Project Preview
+
+
+![preview](images/drumkit.png)
 
 ## 🔹 Author
-
-👤 Created by Srikar
-🔗 www.linkedin.com/in/srikarpittala
+👤 Created by *Srikar*  
+🔗 LinkedIn: 
+www.linkedin.com/in/srikarpittala  
